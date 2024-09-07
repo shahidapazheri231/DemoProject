@@ -1,0 +1,13 @@
+com\example\demo\DemoApplication.class
+com\example\demo\service\StudentService.class
+com\example\demo\service\impl\StudentServiceImpl.class
+com\example\demo\repo\StudentRepo.class
+com\example\demo\entity\Student.class
+com\example\demo\dto\StudentDTO.class
+com\example\demo\controller\StudentController.class
+com\example\demo\exception\MyEntityNotFoundException.class
+com\example\demo\mapper\StudentMapper.class
+com\example\demo\dto\Result.class
+com\example\demo\mapper\StudentMapperImpl.class
+com\example\demo\specifications\StudentSpecification.class
+com\example\demo\dto\StudentResponse.class

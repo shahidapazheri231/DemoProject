@@ -1,0 +1,185 @@
+2024-09-07 00:12:39 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 32228 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 00:12:39 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 00:12:43 INFO  DemoApplication:56 - Started DemoApplication in 4.6 seconds (process running for 5.855)
+2024-09-07 00:12:50 INFO  StudentService:63 - Fetching all students
+2024-09-07 00:12:50 INFO  StudentService:69 - Successfully fetched all students
+2024-09-07 00:17:37 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 37376 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 00:17:37 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 00:17:41 INFO  DemoApplication:56 - Started DemoApplication in 4.023 seconds (process running for 4.713)
+2024-09-07 00:17:48 INFO  StudentService:63 - Fetching all students
+2024-09-07 00:17:48 INFO  StudentService:69 - Successfully fetched all students
+2024-09-07 00:26:10 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 36772 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 00:26:10 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 00:26:13 INFO  DemoApplication:56 - Started DemoApplication in 4.021 seconds (process running for 4.686)
+2024-09-07 00:26:18 INFO  StudentService:63 - Fetching all students
+2024-09-07 00:26:18 INFO  StudentService:69 - Successfully fetched all students
+2024-09-07 00:55:09 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 1408 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 00:55:09 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 00:55:12 INFO  DemoApplication:56 - Started DemoApplication in 3.4 seconds (process running for 4.103)
+2024-09-07 01:04:30 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 16088 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 01:04:30 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 01:04:33 INFO  DemoApplication:56 - Started DemoApplication in 3.391 seconds (process running for 3.982)
+2024-09-07 01:05:04 INFO  StudentService:81 - roll number:Optional[Student(rollNo=1, name=Joe, score=10)]
+2024-09-07 01:22:28 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 22320 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 01:22:28 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 01:22:31 INFO  DemoApplication:56 - Started DemoApplication in 3.338 seconds (process running for 3.913)
+2024-09-07 01:22:57 INFO  StudentService:82 - roll number:Optional[Student(rollNo=1, name=Joe, score=10)]
+2024-09-07 01:27:01 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 17996 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 01:27:01 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 01:27:04 INFO  DemoApplication:56 - Started DemoApplication in 3.285 seconds (process running for 3.836)
+2024-09-07 01:27:17 INFO  StudentService:82 - roll number:Optional[Student(rollNo=1, name=Joe, score=100)]
+2024-09-07 08:26:03 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 26428 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 08:26:03 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 08:28:02 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 24200 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 08:28:02 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 08:28:06 INFO  DemoApplication:56 - Started DemoApplication in 4.397 seconds (process running for 5.033)
+2024-09-07 08:30:18 INFO  StudentService:83 - roll number:Optional[Student(rollNo=1, name=Joe, score=100)]
+2024-09-07 08:30:58 INFO  StudentService:66 - Fetching all students
+2024-09-07 08:30:58 INFO  StudentService:72 - Successfully fetched all students
+2024-09-07 09:33:30 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 22160 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:33:30 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:33:33 INFO  DemoApplication:56 - Started DemoApplication in 3.97 seconds (process running for 4.64)
+2024-09-07 09:36:02 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 27212 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:36:02 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:36:06 INFO  DemoApplication:56 - Started DemoApplication in 4.118 seconds (process running for 4.81)
+2024-09-07 09:41:38 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 28120 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:41:38 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:41:42 INFO  DemoApplication:56 - Started DemoApplication in 3.928 seconds (process running for 4.625)
+2024-09-07 09:43:20 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 24612 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:43:20 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:43:24 INFO  DemoApplication:56 - Started DemoApplication in 3.821 seconds (process running for 4.463)
+2024-09-07 09:47:03 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 27604 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:47:03 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:47:06 INFO  DemoApplication:56 - Started DemoApplication in 3.93 seconds (process running for 4.583)
+2024-09-07 09:47:22 INFO  StudentService:123 - roll number exists:true
+2024-09-07 09:48:50 INFO  StudentService:123 - roll number exists:true
+2024-09-07 09:50:09 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 1140 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 09:50:09 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 09:50:12 INFO  DemoApplication:56 - Started DemoApplication in 3.885 seconds (process running for 4.601)
+2024-09-07 09:50:40 INFO  StudentService:123 - roll number exists:true
+2024-09-07 10:18:58 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 6128 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:18:58 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:19:01 INFO  DemoApplication:56 - Started DemoApplication in 3.963 seconds (process running for 4.604)
+2024-09-07 10:20:22 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 2904 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:20:22 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:20:26 INFO  DemoApplication:56 - Started DemoApplication in 3.787 seconds (process running for 4.439)
+2024-09-07 10:21:33 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 27464 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:21:33 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:21:37 INFO  DemoApplication:56 - Started DemoApplication in 3.898 seconds (process running for 4.577)
+2024-09-07 10:22:46 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 20664 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:22:46 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:22:50 INFO  DemoApplication:56 - Started DemoApplication in 3.744 seconds (process running for 4.403)
+2024-09-07 10:27:06 INFO  StudentService:135 - Fetching student with roll number: 252
+2024-09-07 10:27:07 ERROR StudentService:144 - Entity with roll number 252 not found
+2024-09-07 10:27:07 ERROR StudentController:51 - Unexpected error occurred while fetching student with roll number 252: student with roll number 252 not found
+2024-09-07 10:27:18 INFO  StudentService:135 - Fetching student with roll number: 52
+2024-09-07 10:27:18 INFO  StudentController:47 - Student with roll number 52 retrieved successfully
+2024-09-07 10:29:01 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 28040 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:29:01 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:29:05 INFO  DemoApplication:56 - Started DemoApplication in 3.782 seconds (process running for 4.418)
+2024-09-07 10:29:15 INFO  StudentService:135 - Fetching student with roll number: 52
+2024-09-07 10:29:15 INFO  StudentController:47 - Student with roll number 52 retrieved successfully
+2024-09-07 10:29:21 INFO  StudentService:135 - Fetching student with roll number: 252
+2024-09-07 10:29:21 ERROR StudentService:144 - Entity with roll number 252 not found
+2024-09-07 10:29:21 ERROR StudentController:51 - Student record not found 252: student with roll number 252 not found
+2024-09-07 10:30:19 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 27204 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:30:19 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:30:23 INFO  DemoApplication:56 - Started DemoApplication in 3.698 seconds (process running for 4.345)
+2024-09-07 10:30:44 INFO  StudentService:135 - Fetching student with roll number: 252
+2024-09-07 10:30:44 ERROR StudentService:144 - Entity with roll number 252 not found
+2024-09-07 10:30:44 ERROR StudentController:51 - Student record not found 252: student with roll number 252 not found
+2024-09-07 10:32:49 INFO  StudentService:84 - roll number:Optional[Student(rollNo=1002, name=Nooha, score=0)]
+2024-09-07 10:33:30 INFO  StudentService:135 - Fetching student with roll number: 1002
+2024-09-07 10:33:30 INFO  StudentController:47 - Student with roll number 1002 retrieved successfully
+2024-09-07 10:33:42 INFO  StudentService:67 - Fetching all students
+2024-09-07 10:33:42 INFO  StudentService:73 - Successfully fetched all students
+2024-09-07 10:33:47 INFO  StudentService:67 - Fetching all students
+2024-09-07 10:33:47 INFO  StudentService:73 - Successfully fetched all students
+2024-09-07 10:33:56 INFO  StudentService:67 - Fetching all students
+2024-09-07 10:33:56 INFO  StudentService:73 - Successfully fetched all students
+2024-09-07 10:34:05 INFO  StudentService:67 - Fetching all students
+2024-09-07 10:34:05 INFO  StudentService:73 - Successfully fetched all students
+2024-09-07 10:36:40 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 15664 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 10:36:40 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 10:36:43 INFO  DemoApplication:56 - Started DemoApplication in 3.843 seconds (process running for 4.629)
+2024-09-07 10:37:33 INFO  StudentService:67 - Fetching all students
+2024-09-07 10:37:33 INFO  StudentService:73 - Successfully fetched all students
+2024-09-07 17:40:58 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 31632 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 17:40:58 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 17:41:02 INFO  DemoApplication:56 - Started DemoApplication in 3.882 seconds (process running for 4.556)
+2024-09-07 17:41:20 INFO  StudentController:70 - Student details retrieved successfully of page 0 size 10
+2024-09-07 17:41:33 INFO  StudentController:70 - Student details retrieved successfully of page 1 size 10
+2024-09-07 17:49:45 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 5928 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 17:49:45 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 17:49:49 INFO  DemoApplication:56 - Started DemoApplication in 3.904 seconds (process running for 4.581)
+2024-09-07 17:50:02 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 17:50:03 INFO  StudentService:53 - Successfully retreived student details: size ={}10
+2024-09-07 17:50:03 INFO  StudentController:70 - Student details retrieved successfully of page 1 size 10
+2024-09-07 17:52:12 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 17012 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 17:52:12 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 17:52:16 INFO  DemoApplication:56 - Started DemoApplication in 3.846 seconds (process running for 4.569)
+2024-09-07 17:55:30 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 17:55:30 INFO  StudentService:53 - Successfully retreived student details. size:{}10
+2024-09-07 17:55:30 INFO  StudentController:70 - Student details retrieved successfully of page 1 size 10
+2024-09-07 17:56:46 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 25540 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 17:56:46 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 17:56:50 INFO  DemoApplication:56 - Started DemoApplication in 3.842 seconds (process running for 4.504)
+2024-09-07 17:57:07 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 17:57:08 INFO  StudentService:53 - Successfully retreived student details. size: {}10
+2024-09-07 17:57:08 INFO  StudentController:70 - Student details retrieved successfully of page 1 size 10
+2024-09-07 18:09:39 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 30936 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 18:09:39 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 18:09:45 INFO  DemoApplication:56 - Started DemoApplication in 6.355 seconds (process running for 7.773)
+2024-09-07 18:10:11 INFO  StudentService:38 - Entering method: createStudent
+2024-09-07 18:18:17 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 27488 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 18:18:17 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 18:20:29 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 18308 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 18:20:29 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 18:22:37 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 6820 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 18:22:37 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 18:22:41 INFO  DemoApplication:56 - Started DemoApplication in 4.054 seconds (process running for 4.732)
+2024-09-07 18:22:55 INFO  StudentService:38 - Entering method: createStudent
+2024-09-07 18:23:39 INFO  StudentService:38 - Entering method: createStudent
+2024-09-07 18:23:53 INFO  StudentService:149 - Entering method: getStudentDetails
+2024-09-07 18:23:53 INFO  StudentService:150 - Fetching student with roll number: 1102
+2024-09-07 18:23:53 INFO  StudentController:47 - Student with roll number 1102 retrieved successfully
+2024-09-07 18:28:28 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 14248 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 18:28:28 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 18:28:32 INFO  DemoApplication:56 - Started DemoApplication in 4.299 seconds (process running for 5.262)
+2024-09-07 18:29:19 INFO  StudentService:74 - Entering method: searchStudents
+2024-09-07 18:29:19 INFO  StudentService:78 - Fetching all students
+2024-09-07 18:29:19 INFO  StudentService:84 - Successfully fetched all students
+2024-09-07 18:29:26 INFO  StudentService:74 - Entering method: searchStudents
+2024-09-07 18:29:26 INFO  StudentService:78 - Fetching all students
+2024-09-07 18:29:26 INFO  StudentService:84 - Successfully fetched all students
+2024-09-07 19:09:28 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 3484 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 19:09:28 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 19:09:32 INFO  DemoApplication:56 - Started DemoApplication in 4.238 seconds (process running for 4.949)
+2024-09-07 19:14:19 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 5988 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 19:14:19 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 19:14:22 INFO  DemoApplication:56 - Started DemoApplication in 4.143 seconds (process running for 4.833)
+2024-09-07 19:15:11 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 30792 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 19:15:11 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 19:15:15 INFO  DemoApplication:56 - Started DemoApplication in 3.932 seconds (process running for 4.615)
+2024-09-07 19:15:48 INFO  StudentService:38 - Entering method: createStudent
+2024-09-07 19:16:13 INFO  StudentService:38 - Entering method: createStudent
+2024-09-07 19:16:24 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 19:16:24 INFO  StudentService:53 - Successfully retreived student details of size: 2
+2024-09-07 19:16:24 INFO  StudentController:63 - Student details retrieved successfully of page 0 size 10
+2024-09-07 19:16:37 INFO  StudentService:149 - Entering method: getStudentDetails
+2024-09-07 19:16:37 INFO  StudentService:150 - Fetching student with roll number: 1152
+2024-09-07 19:16:37 INFO  StudentController:47 - Student with roll number 1152 retrieved successfully
+2024-09-07 19:16:56 INFO  StudentService:90 - Entering method: patchStudent
+2024-09-07 19:16:56 INFO  StudentService:96 - Entering method: patchStudent
+2024-09-07 19:16:56 INFO  StudentService:97 - roll number:Optional[Student(rollNo=1152, name=Sam, score=30)]
+2024-09-07 19:17:05 INFO  StudentService:63 - Entering method: getListOfEligibleStudents
+2024-09-07 19:17:14 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 19:17:14 INFO  StudentService:53 - Successfully retreived student details of size: 2
+2024-09-07 19:17:14 INFO  StudentController:63 - Student details retrieved successfully of page 0 size 10
+2024-09-07 19:18:06 INFO  StudentService:114 - Entering method: updateStudent
+2024-09-07 19:19:14 INFO  DemoApplication:50 - Starting DemoApplication using Java 21.0.2 with PID 28180 (C:\Users\shahi\Downloads\demo\demo\target\classes started by shahi in C:\Users\shahi\Downloads\demo\demo)
+2024-09-07 19:19:14 INFO  DemoApplication:654 - No active profile set, falling back to 1 default profile: "default"
+2024-09-07 19:19:18 INFO  DemoApplication:56 - Started DemoApplication in 3.966 seconds (process running for 4.687)
+2024-09-07 19:19:32 INFO  StudentService:48 - Entering method: getStudents
+2024-09-07 19:19:32 INFO  StudentService:53 - Successfully retreived student details of size: 2
+2024-09-07 19:19:32 INFO  StudentController:63 - Student details retrieved successfully of page 0 size 10
